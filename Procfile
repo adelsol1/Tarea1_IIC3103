@@ -1,1 +1,1 @@
-web: gunicorn Tarea1.py --log-file -
+web: gunicorn gettingstarted.wsgi --log-file -
